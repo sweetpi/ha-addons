@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "slug": "dynudns",
   "description": "Free Dynamic DNS via Dynu with Let's Encrypt support",
-  "url": "https://github.com/koying/ha-addons/tree/main/dynudns-addon",
+  "url": "https://github.com/sweetpi/ha-addons/tree/main/dynudns-addon",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "services",
   "init": false,
